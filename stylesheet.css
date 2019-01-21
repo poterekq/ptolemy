@@ -27,9 +27,17 @@ body {
   height: 40%;
 }
 
-.item{
+#i1{
   background-image: url(images/Index_Map1.png);
   background-position: center center;
+}
+
+#i2{
+  background-image: url(images/Index_Map2.png);
+  background-position: center center;
+}
+
+.item{
   width: 45%;
   opacity: 0.75;
   border: 5px solid #374140;

@@ -272,7 +272,6 @@ label {
 }
 
 #layers {
-  display: none;
   position: fixed;
   z-index: 101;
   left: 10px;
